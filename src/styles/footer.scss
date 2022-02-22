@@ -1,0 +1,15 @@
+@import './palette.scss';
+
+.footer-body {
+  position: absolute;
+  bottom: 0.8rem;
+
+  font-size: 0.8rem;
+  color: $grayish-blue;
+
+  .footer-link {
+    font-weight: 700;
+    text-decoration: none;
+    color: $dark-blue;
+  }
+}
