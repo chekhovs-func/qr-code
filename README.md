@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Live Page](#live-page)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -16,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./public/assets/desktop-screenshot.jpg)
 
-## Live Page
+### Live Page
 
 A live version of this repo can be found [here](https://chekhovs-func.github.io/qr-code/).
 
