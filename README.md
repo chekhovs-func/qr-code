@@ -11,18 +11,22 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
+
 ### Screenshot
 
 ![](./public/assets/desktop-screenshot.jpg)
 
+## Live Page
+
+A live version of this repo can be found [here](https://chekhovs-func.github.io/qr-code/).
+
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
 - [Sass](https://sass-lang.com/) - For styles
+- Flexbox
+- [React](https://reactjs.org/) - JS library
+- Mobile-first workflow
 
 ## Author
 
