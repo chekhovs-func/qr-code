@@ -7,16 +7,38 @@
   padding: 0;
 
   font-family: 'Outfit', sans-serif;
+
+  user-select: none;
 }
 
 .container {
   align-items: center;
   flex-direction: column;
-  
+
   display: flex;
 
   width: 100vw;
   height: 100vh;
 
   background-color: $light-gray;
+
+  .attribution {
+    justify-content: center;
+    display: flex;
+
+    width: 100vw;
+
+    .body {
+      margin-bottom: 16px;
+
+      font-size: 12px;
+      color: $grayish-blue;
+
+      .link {
+        font-weight: 700;
+        text-decoration: none;
+        color: $dark-blue;
+      }
+    }
+  }
 }
