@@ -29,7 +29,8 @@
     width: 100vw;
 
     .body {
-      margin-bottom: 16px;
+      position: absolute;
+      bottom: 16px;
 
       font-size: 12px;
       color: $grayish-blue;
