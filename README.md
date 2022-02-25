@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# QR Code Component
 
 ## Table of contents
 
@@ -11,7 +11,6 @@
 ## Overview
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-
 
 ### Screenshot
 
@@ -32,4 +31,3 @@ A live version of this repo can be found [here](https://chekhovs-func.github.io/
 ## Author
 
 - Github - [Robert Butler](https://github.com/chekhovs-func)
-- Frontend Mentor - [@chekhovs-func](https://www.frontendmentor.io/profile/chekhovs-func)
