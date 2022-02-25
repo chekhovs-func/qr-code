@@ -1,4 +1,4 @@
-# QR Code Component
+# QR Code
 
 ## Table of contents
 
