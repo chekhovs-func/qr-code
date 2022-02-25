@@ -44,5 +44,9 @@
     letter-spacing: 0.19px;
     text-align: center;
     color: $grayish-blue;
+
+    span {
+      letter-spacing: .8px;
+    }
   }
 }

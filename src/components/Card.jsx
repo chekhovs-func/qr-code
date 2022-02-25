@@ -10,8 +10,8 @@ export default function Card() {
       />
       <h1 className='main-title'>Improve your front-end skills by building projects</h1>
       <p className='main-body'>
-        Scan the QR code to visit Frontend Mentor and take your skills to <br />
-        the next level
+        Scan the QR code to visit Frontend
+        <span> Mentor and take your skills to</span> the next level
       </p>
     </section>
   );
